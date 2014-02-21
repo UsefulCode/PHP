@@ -5,3 +5,6 @@ Thank you for taking a look at my GitHub.
 I have written all of the code in this repository, you can feel free to use this
 code at any time in any project you wish.
 
+This code will take you through tutorials on how to start programming in different 
+languages.
+
