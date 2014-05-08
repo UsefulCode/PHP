@@ -1,4 +1,5 @@
 <?php
+//YOUTUBE VIDEO FOR THIS TUTORIAL: https://www.youtube.com/watch?v=aCgg9Wzm7AQ
 //All PHP code must be placed in the PHP tags.  Otherwise it will be views as HTML code.  
 //Some servers will accept <? to start a php tag, all will accept <?php.
 
@@ -27,8 +28,8 @@ $message = "Hello World";
 	<body>
 		<p>
 			<?php
-			//Here we will use the print command to do the same thing.
-			print $message;
+				//Here we will use the print command to do the same thing.
+				print $message;
 			?>
 		</p>
 	</body>
