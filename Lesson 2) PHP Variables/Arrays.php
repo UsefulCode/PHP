@@ -1,7 +1,7 @@
 <?php
 //In this tutorial we will look at how arrays work in php
 //An array is basically a list of items.
-//THe list will start at a value of 0.
+//The list will start at a value of 0.
 $array = array("Zero", "One", "Two", 3);
 
 //In an array you can have more than one type of variable.  
