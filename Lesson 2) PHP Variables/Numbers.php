@@ -24,6 +24,22 @@ $absNegative = abs($negative);
 
 //The remainder can be calculated by using the % symbol.
 $remainderOneDevideTwo = $intOne%$intTwo;
+
+//You can add one to a number by using ++
+$intOnePlus = 1;
+$intOnePlus++;
+
+//Similarly you can subract one from a number by using --
+$intOneMinus = 1;
+$intOneMinus--;
+
+//You can also add, or subtract any number from a variable by isng the += or -=
+$intOnePlusTen = 1;
+$intOnePlusTen += 10;
+
+$intOneMinusTen = 1;
+$intOneMinusTen -= 10;
+
 ?>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
@@ -62,6 +78,18 @@ $remainderOneDevideTwo = $intOne%$intTwo;
 			</tr>
 			<tr>
 				<td>remainderOneDevideTwo: </td><td><?php echo $remainderOneDevideTwo; ?></td>
+			</tr>
+			<tr>
+				<td>intOnePlus: </td><td><?php echo $intOnePlus; ?></td>
+			</tr>
+			<tr>
+				<td>intOneMinus: </td><td><?php echo $intOneMinus; ?></td>
+			</tr>
+			<tr>
+				<td>intOnePlusTen: </td><td><?php echo $intOnePlusTen; ?></td>
+			</tr>
+			<tr>
+				<td>intOneMinusTen: </td><td><?php echo $intOneMinusTen; ?></td>
 			</tr>
 		</table>
 	</body>
