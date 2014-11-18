@@ -5,3 +5,4 @@ Complete these in order:
 2) Switch
 3) While
 4) For
+5) For Each
